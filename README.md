@@ -22,3 +22,4 @@ This is a simple Rock Paper Scissors web app where the computer plays against it
 - `index.html`: Contains the structure of the web app.
 - `style.css`: Contains the styling for the web app.
 - `script.js`: Contains the JavaScript code that handles the game logic and UI updates.
+##hi
